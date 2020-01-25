@@ -15,10 +15,10 @@
 
 .LukeSkywalker{
   background:url("./assets/LukeLightsaber.jpg");
+  color:darkblue;
 }
 .C-3PO{
   background:url("./assets/c3po.png");
-  background-position-x: 60px;
   
 }
 .R2-D2{
@@ -40,6 +40,7 @@
 }
 .R5-D4{
   background:url("./assets/R5-D4-Droidography.png");
+  color:white;
 }
 .BiggsDarklighter{
   background:url("./assets/Biggs.png");
@@ -52,7 +53,8 @@
 .cardclass{
   text-align: left;
   background-repeat:no-repeat;
-  background-size:cover;
+  background-size:100% 100%;
   font-weight: bold;
-  background-color: lightslategray;
+  background-color: burlywood;
+  background-position-x: right;
 }
